@@ -9,7 +9,7 @@
     <?php
     echo '<h1>CALCULADORA</h1>';
         $x = 3;
-        $y = 5;
+        $y = 51;
 
         $x*=5;
         $oFechaPrueba = new DateTime();
